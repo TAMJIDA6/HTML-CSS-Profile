@@ -65,7 +65,7 @@ My First HTML Profile Project
   
   <section>
     <h2>My Works & Pages</h2>
-    <p><a href="https://www.facebook.com/share/15u3PVVBvi/" target="_blank">📚 Twin's Collection — online Products</a></p>
+    <p><a  href="https://www.facebook.com/share/15u3PVVBvi/" target="_blank">📚 Twin's Collection — online Products</a></p>
     
     <p><a href="https://www.facebook.com/share/15tvdGPwJP/"and href="https://www.facebook.com/groups/364063726533382/?ref=share&mibextid=NSMWBT" target="_blank">🌸 Alokito Nari — Islamic Inspirations</a></p>
   </section>
@@ -77,7 +77,7 @@ My First HTML Profile Project
   </section>
 
   <footer>
-    © 2025 Tamjida | All Rights Reserved.
+    ©.2025 Tamjida | All Rights Reserved.
   </footer>
 
 </body>
